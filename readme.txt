@@ -5,8 +5,4 @@ this is my first git
 hello today is 2023/6/3
 this is checkout test
 
-<<<<<<< HEAD
-im crazy
-=======
-ARE YOU CRAZY
-issue-101 bugline test
+finish
